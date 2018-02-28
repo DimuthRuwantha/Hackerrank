@@ -1,0 +1,6 @@
+C:\Users\dimuth\documents\visual studio 2015\Projects\HackerrankCSharp\HackerrankCSharp\bin\Debug\HackerrankCSharp.exe.config
+C:\Users\dimuth\documents\visual studio 2015\Projects\HackerrankCSharp\HackerrankCSharp\bin\Debug\HackerrankCSharp.exe
+C:\Users\dimuth\documents\visual studio 2015\Projects\HackerrankCSharp\HackerrankCSharp\bin\Debug\HackerrankCSharp.pdb
+C:\Users\dimuth\documents\visual studio 2015\Projects\HackerrankCSharp\HackerrankCSharp\obj\Debug\HackerrankCSharp.exe
+C:\Users\dimuth\documents\visual studio 2015\Projects\HackerrankCSharp\HackerrankCSharp\obj\Debug\HackerrankCSharp.pdb
+C:\Users\dimuth\documents\visual studio 2015\Projects\HackerrankCSharp\HackerrankCSharp\obj\Debug\HackerrankCSharp.csprojResolveAssemblyReference.cache
