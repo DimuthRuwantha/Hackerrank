@@ -8,7 +8,8 @@ namespace HackerrankCSharp
 	{
 		static void Main(string[] args)
 		{
-			new HackerrankString();
+			
+
 			Console.ReadKey(true);
 		}
 	}
